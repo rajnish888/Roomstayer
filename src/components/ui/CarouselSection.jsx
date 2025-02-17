@@ -47,8 +47,11 @@ const CarouselSection = ({
           setSwiperInstance={(swiper) => (swiperRef.current = swiper)}
           {...otherProps}
         />
+
+
+        
       </div>
-    </div>
+    </div> 
   );
 };
 
