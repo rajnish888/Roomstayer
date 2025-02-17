@@ -48,20 +48,20 @@ const topDestinations = [
 
 
 const centeredSlider = [
-  { image: Card13 },
-  { image: Card14 },
-  { image: Card15 },
-  { image: Card16 },
-  { image: Card17 },
-  { image: Card18 },
-  { image: Card19 },
-  { image: Card13 },
-  { image: Card14 },
-  { image: Card15 },
-  { image: Card16 },
-  { image: Card17 },
-  { image: Card18 },
-  { image: Card19 },
+  { image: Card13 , title: 'Slider-img'},
+  { image: Card14 , title: 'Slider-img'},
+  { image: Card15 , title: 'Slider-img'},
+  { image: Card16 , title: 'Slider-img'},
+  { image: Card17 , title: 'Slider-img'},
+  { image: Card18 , title: 'Slider-img'},
+  { image: Card19 , title: 'Slider-img'},
+  { image: Card13 , title: 'Slider-img'},
+  { image: Card14 , title: 'Slider-img'},
+  { image: Card15 , title: 'Slider-img'},
+  { image: Card16 , title: 'Slider-img'},
+  { image: Card17 , title: 'Slider-img'},
+  { image: Card18 , title: 'Slider-img'},
+  { image: Card19 , title: 'Slider-img'},
 
 
 ];
